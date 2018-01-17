@@ -1,0 +1,15 @@
+{
+    "name": "fixik/slim-api",
+    "description": "Simple RESTful api on slim",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "OlegMarko",
+            "email": "olegmarko7@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.9"
+    }
+}
